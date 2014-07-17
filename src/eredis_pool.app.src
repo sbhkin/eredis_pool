@@ -10,6 +10,7 @@
   {mod, { eredis_pool_app, []}},
   {env, []}
 
+%% connection to own server
 %% sample configuration.
 %%
 %%  {env, [
